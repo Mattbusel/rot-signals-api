@@ -1,5 +1,7 @@
 # rot-signals-api
 
+[![Verified on FreeAPI](https://findfreeapi.com/api/badge/rot-signals-api)](https://findfreeapi.com/en/service/rot-signals-api)
+
 > REST + WebSocket API for [Reddit Options Trader](https://github.com/Mattbusel/Reddit-Options-Trader-ROT-) signals.
 > Real-time for paid tiers. 15-minute delayed for free.
 
